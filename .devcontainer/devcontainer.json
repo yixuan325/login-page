@@ -52,7 +52,8 @@
 				"pmneo.tsimporter",
 				"DSKWRK.vscode-generate-getter-setter",
 				"zxh404.vscode-proto3",
-				"redhat.vscode-yaml"
+				"redhat.vscode-yaml",
+				"WallabyJs.quokka-vscode"
 			]
 		}
 	},
