@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { HelloWorld } from '@components';
+import { CHM } from '@assets';
 
 const App = () => {
   const [count, setCount] = useState(0);
@@ -23,6 +24,7 @@ const App = () => {
         <p className='mt-4'>Count: {count}</p>
       </div>
       <HelloWorld />
+      <img src={CHM} alt='CHM' className='h-32 w-32' />
     </div>
   );
 };
