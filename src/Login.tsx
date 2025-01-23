@@ -18,7 +18,7 @@ const Login = () => {
   };
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-100">
+    <div className="flex justify-center items-center min-h-screen bg-back">
       <div className="w-96 p-8 bg-white shadow-md rounded-lg">
         <h2 className="text-2xl font-bold text-center mb-2">Login</h2>
         <p className="text-xs text-center mb-2">Enter your email to log in for this app</p>
